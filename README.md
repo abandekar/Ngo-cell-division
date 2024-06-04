@@ -1,4 +1,4 @@
-# Ngo-cell-division
+# Angle between division plane and long axis
 Source code and example of how angle between the long axis and the division plane (Fig 2B, 2F) was calculated in FIJI.
 1. For Figure 2B, the epifluorescence image of mNeonGreen-ZapA / NADA from "Raw Data.tif" was background subtracted (rolling ball radius = 50 pixels). For Figure 2F, the epifluorescence image of NADA from "Raw 
    Data_YWC02_uninduced_NADA45min.tif" and "Raw Data_YWC02_Induced_0.5MMIPTG_2.5hr_NADA45min. tif" was background subtracted (rolling ball radius = 50 pixels). 
